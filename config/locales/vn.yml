@@ -1,0 +1,10 @@
+vn:
+  view:
+    home:
+      menu:
+        home: "Trang chủ"
+        shop: "Sản phẩm"
+        about: "Giới thiệu"
+        contact: "Liên hệ"
+        recruit: "Tuyển dụng"
+      shop_bag: "Xem giỏ hàng"

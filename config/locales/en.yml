@@ -20,4 +20,12 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  view:
+    home:
+      menu:
+        home: "Home"
+        shop: "Shop"
+        about: "About Us"
+        contact: "Contact Us"
+        recruit: "Recruit"
+      shop_bag: "View Shopping Bag"
